@@ -4,10 +4,10 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "BTC",
-    segwit: true,
-    disableExtmsg: true,
-    node: `seed.bitcoin.sipa.be`, //81.17.100.4:8333 //94.131.109.234:8333
+    ticker: "t4BCH",
+    segwit: false,
+    disableExtmsg: false,
+    node: `testnet4.bitjson.com:48333`,
     DEBUG_LOG: true,
     mempoolTxs: true,
   };
@@ -61,9 +61,9 @@ import Message from "../src/messages/message";
   const delay = await peer.ping();
   console.log(`Peer responded in ${delay} ms`);
 
-  await new Promise((r) => setTimeout(r, 1000 * 3));
+ /* await new Promise((r) => setTimeout(r, 1000 * 3));
   // console.log(`Getting peers of peers`);
-  let addrs = await peer.getAddr();
+  let addrs = await peer.getAddr();*/
   // console.log(addrs);
 
   const headers = await peer.getHeaders({});
@@ -75,7 +75,7 @@ import Message from "../src/messages/message";
   // await new Promise((r) => setTimeout(r, 1000 * 3));
   console.log(`Getting block...`);
   let blockInfo = await peer.getBlock(
-    "000000000000002245b638f45da58d88a31f51b0847fe20c0767401dc239d8b5"
+    "0000000074cacd84d2cac6d6e259a9543aa05541ce64db1299861da882c467db"
   );
   console.log(blockInfo);
 

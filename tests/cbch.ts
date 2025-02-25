@@ -4,10 +4,10 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "BTC",
-    segwit: true,
+    ticker: "cBCH",
+    segwit: false,
     disableExtmsg: true,
-    node: `seed.bitcoin.sipa.be`, //81.17.100.4:8333 //94.131.109.234:8333
+    node: `chipnet.bitjson.com:48333`,
     DEBUG_LOG: true,
     mempoolTxs: true,
   };
@@ -75,7 +75,7 @@ import Message from "../src/messages/message";
   // await new Promise((r) => setTimeout(r, 1000 * 3));
   console.log(`Getting block...`);
   let blockInfo = await peer.getBlock(
-    "000000000000002245b638f45da58d88a31f51b0847fe20c0767401dc239d8b5"
+    "00000000460578ae5faea6261a3c27a4a4cdbe1ab442c82ad370413de9464689"
   );
   console.log(blockInfo);
 

@@ -4,10 +4,10 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "BTC",
-    segwit: true,
+    ticker: "BCH",
+    segwit: false,
     disableExtmsg: true,
-    node: `seed.bitcoin.sipa.be`, //81.17.100.4:8333 //94.131.109.234:8333
+    node: `46.250.249.109:8333`, //35.208.165.58 //3.66.139.92
     DEBUG_LOG: true,
     mempoolTxs: true,
   };

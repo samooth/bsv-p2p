@@ -4,10 +4,9 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "BTC",
+    ticker: "tFB",
     segwit: true,
-    disableExtmsg: true,
-    node: `seed.bitcoin.sipa.be`, //81.17.100.4:8333 //94.131.109.234:8333
+    node: `109.123.251.215:8333`, //81.17.100.4:8333 //94.131.109.234:8333
     DEBUG_LOG: true,
     mempoolTxs: true,
   };
@@ -73,11 +72,11 @@ import Message from "../src/messages/message";
   // peer.fetchNewBlocks((hashes) => hashes); // Return filtered block hashes to download new blocks
 
   // await new Promise((r) => setTimeout(r, 1000 * 3));
-  console.log(`Getting block...`);
+ /* console.log(`Getting block...`);
   let blockInfo = await peer.getBlock(
     "000000000000002245b638f45da58d88a31f51b0847fe20c0767401dc239d8b5"
   );
   console.log(blockInfo);
-
+*/
   peer.disconnect();
 })();
