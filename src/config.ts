@@ -21,20 +21,35 @@ const MAGIC_NUMS: { [key: string]: Buffer } = {
   tFB: Buffer.from("e8ada3c8", "hex"), // testnet Fractal Bitcoin
 
   XEC: Buffer.from("e3e1f3e8", "hex"),
+  rXEC: Buffer.from("dab5bffa", "hex"),
+  tXEC: Buffer.from("f4e5f3f4", "hex"),
+
+  GRS: Buffer.from("f9beb4d4","hex"),
+  t4GRS: Buffer.from("0b110907","hex"),
+  sGRS: Buffer.from("6f892b8f","hex"),
+  rGRS: Buffer.from("fabfb5da","hex"),
 
 //  "BSV-STN": Buffer.from("fbcec4f9", "hex"), // Deactivated
   DEFAULT: Buffer.from("e3e1f3e8", "hex"),
 } as const;
 
 const PORTS: { [ticker: string]: number } = {
+  GRS:1331,
+  t4GRS:17777,
+  rGRS:18888,
+  sGRS:31331,
+  t4BTC:48333,
   FB:18333,
   t4BCH:28333,
   sBCH:38333,
   cBCH:48333,
+  tXEC:18333,
   DEFAULT:8333,
 
 } as const;
+
 const VERSIONS: { [ticker: string]: number } = {
+  GRS: 70016,
   BSV: 70016,
 
   BTC: 70015,
@@ -44,7 +59,8 @@ const VERSIONS: { [ticker: string]: number } = {
   FB: 70016,
   tFB: 70016,
 
-  BCH: 70015,
+  BCH: 70016,
+  tBCH: 70016,
 
   XEC: 70015,
 
@@ -53,7 +69,11 @@ const VERSIONS: { [ticker: string]: number } = {
 
 const SEGWIT: { [ticker: string]: boolean } = {
   BSV: false,
-  
+  GRS: true,
+  t4GRS: true,
+  rGRS: true,
+  sGRS: true,
+
   BCH: false,
   tBCH: false,
   t3BCH: false,
@@ -70,6 +90,11 @@ const SEGWIT: { [ticker: string]: boolean } = {
 } as const;
 
 const USER_AGENTS: { [ticker: string]: string } = {
+  GRS: "/GroestlCoin P2P/",
+  t4GRS: "/GroestlCoin P2P/",
+  rGRS: "/GroestlCoin P2P/",
+  sGRS: "/GroestlCoin P2P/",
+
   BSV: "/Bitcoin SV/",
   tBTC: "/Bitcoin/",
   t4BTC: "/Bitcoin/",

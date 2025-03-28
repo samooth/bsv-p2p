@@ -1,6 +1,6 @@
-bsv-p2p
+@samooth/bsv-p2p
 
-# bsv-p2p
+# @samooth/bsv-p2p
 
 ## Table of contents
 
@@ -36,4 +36,4 @@ bsv-p2p
 
 #### Defined in
 
-[index.ts:39](https://github.com/kevinejohn/bsv-p2p/blob/master/src/index.ts#L39)
+[index.ts:39](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L39)

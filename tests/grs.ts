@@ -4,14 +4,18 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "FB",
+    ticker: "GRS",
     segwit: true,
-    node: `34.123.130.66:18333`, // 148.113.190.94:10333
+    node: `170.39.117.93:1331`, // 148.113.190.94:10333
+    version:70016,
+    disableExtmsg: true,
     DEBUG_LOG: true,
     mempoolTxs: true,
+    user_agent: "/GroestlCoin P2P/"
   };
-
   const peer = new BitcoinP2P(options);
+  
+  peer.timeoutConnect=60000
   peer.once("connected", () => {
     console.log(`Connected event!`);
   });
@@ -55,12 +59,15 @@ import Message from "../src/messages/message";
   peer.on("disconnected", ({ disconnects }) => {
     console.log(`Disconnected to peer`);
   });
-  await peer.connect();
-  console.log(`Connected`);
-  const delay = await peer.ping();
-  console.log(`Peer responded in ${delay} ms`);
+    console.log(peer)
 
-  await new Promise((r) => setTimeout(r, 1000 * 3));
+  await peer.connect();
+
+  console.log(`Connected`);
+  //const delay = await peer.ping();
+  //console.log(`Peer responded in ${delay} ms`);
+
+  //await new Promise((r) => setTimeout(r, 1000 * 3));
   // console.log(`Getting peers of peers`);
   /*
   let addrs = await peer.getAddr();
@@ -73,13 +80,14 @@ import Message from "../src/messages/message";
   // peer.fetchNewBlocks((hashes) => hashes); // Return filtered block hashes to download new blocks
 
   // await new Promise((r) => setTimeout(r, 1000 * 3));
-  
   console.log(`Getting block...`);
-  let blockInfo = await peer.getBlock(
-    "1744f5abf6f5bafc7428c3a327542437b6ba08df78a6d5abda880b8de382285b"
+  let t = await peer.ping()
+  console.log(t)
+  /*let blockInfo = await peer.getBlock(
+    "000000000000031020e6d3eb8c9171bb522e5e172da15aaf1ea4073a7df61665"
   );
   console.log(blockInfo);
-  
+  */
 
   peer.disconnect();
 })();

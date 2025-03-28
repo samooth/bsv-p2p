@@ -4,7 +4,7 @@ import Message from "../src/messages/message";
 
 (async () => {
   const options: PeerOptions = {
-    ticker: "tFB",
+    ticker: "FB",
     segwit: true,
     node: `109.123.251.215:8333`, //81.17.100.4:8333 //94.131.109.234:8333
     DEBUG_LOG: true,
