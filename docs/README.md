@@ -36,4 +36,4 @@
 
 #### Defined in
 
-[index.ts:39](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L39)
+[index.ts:39](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L39)

@@ -1,6 +1,6 @@
 # bsv-p2p
 
-[![NPM Package](https://img.shields.io/npm/v/bsv-p2p.svg?style=flat-square)](https://www.npmjs.org/package/bsv-p2p)
+[![NPM Package](https://img.shields.io/npm/v/@samooth/bsv-p2p.svg?style=flat-square)](https://www.npmjs.org/package/@samooth/bsv-p2p)
 
 Communicate on the Bitcoin P2P network with minimal overhead or dependencies
 

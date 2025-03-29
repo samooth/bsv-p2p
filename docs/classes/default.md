@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[index.ts:89](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L89)
+[index.ts:89](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L89)
 
 ## Properties
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[index.ts:69](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L69)
+[index.ts:69](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L69)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[index.ts:60](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L60)
+[index.ts:60](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L60)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[index.ts:61](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L61)
+[index.ts:61](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L61)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[index.ts:87](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L87)
+[index.ts:87](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L87)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-[index.ts:71](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L71)
+[index.ts:71](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L71)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[index.ts:85](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L85)
+[index.ts:85](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L85)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[index.ts:63](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L63)
+[index.ts:63](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L63)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[index.ts:62](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L62)
+[index.ts:62](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L62)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[index.ts:67](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L67)
+[index.ts:67](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L67)
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 #### Defined in
 
-[index.ts:70](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L70)
+[index.ts:70](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L70)
 
 ___
 
@@ -212,7 +212,7 @@ ___
 
 #### Defined in
 
-[index.ts:66](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L66)
+[index.ts:66](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L66)
 
 ___
 
@@ -236,7 +236,7 @@ ___
 
 #### Defined in
 
-[index.ts:65](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L65)
+[index.ts:65](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L65)
 
 ___
 
@@ -260,7 +260,7 @@ ___
 
 #### Defined in
 
-[index.ts:64](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L64)
+[index.ts:64](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L64)
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-[index.ts:53](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L53)
+[index.ts:53](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L53)
 
 ___
 
@@ -280,7 +280,7 @@ ___
 
 #### Defined in
 
-[index.ts:58](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L58)
+[index.ts:58](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L58)
 
 ___
 
@@ -290,7 +290,7 @@ ___
 
 #### Defined in
 
-[index.ts:50](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L50)
+[index.ts:50](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L50)
 
 ___
 
@@ -300,7 +300,7 @@ ___
 
 #### Defined in
 
-[index.ts:51](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L51)
+[index.ts:51](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L51)
 
 ___
 
@@ -310,7 +310,7 @@ ___
 
 #### Defined in
 
-[index.ts:86](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L86)
+[index.ts:86](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L86)
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 #### Defined in
 
-[index.ts:56](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L56)
+[index.ts:56](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L56)
 
 ___
 
@@ -330,7 +330,7 @@ ___
 
 #### Defined in
 
-[index.ts:84](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L84)
+[index.ts:84](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L84)
 
 ___
 
@@ -340,7 +340,7 @@ ___
 
 #### Defined in
 
-[index.ts:57](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L57)
+[index.ts:57](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L57)
 
 ___
 
@@ -350,7 +350,7 @@ ___
 
 #### Defined in
 
-[index.ts:52](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L52)
+[index.ts:52](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L52)
 
 ___
 
@@ -360,7 +360,7 @@ ___
 
 #### Defined in
 
-[index.ts:68](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L68)
+[index.ts:68](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L68)
 
 ___
 
@@ -370,7 +370,7 @@ ___
 
 #### Defined in
 
-[index.ts:55](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L55)
+[index.ts:55](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L55)
 
 ___
 
@@ -380,7 +380,7 @@ ___
 
 #### Defined in
 
-[index.ts:59](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L59)
+[index.ts:59](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L59)
 
 ___
 
@@ -390,7 +390,7 @@ ___
 
 #### Defined in
 
-[index.ts:54](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L54)
+[index.ts:54](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L54)
 
 ## Methods
 
@@ -421,7 +421,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:24](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L24)
+[types/TypedEventEmitter.ts:24](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L24)
 
 ___
 
@@ -442,7 +442,7 @@ ___
 
 #### Defined in
 
-[index.ts:670](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L670)
+[index.ts:670](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L670)
 
 ___
 
@@ -463,7 +463,7 @@ ___
 
 #### Defined in
 
-[index.ts:682](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L682)
+[index.ts:682](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L682)
 
 ___
 
@@ -483,7 +483,7 @@ ___
 
 #### Defined in
 
-[index.ts:359](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L359)
+[index.ts:359](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L359)
 
 ___
 
@@ -503,7 +503,7 @@ ___
 
 #### Defined in
 
-[index.ts:587](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L587)
+[index.ts:587](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L587)
 
 ___
 
@@ -534,7 +534,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:37](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L37)
+[types/TypedEventEmitter.ts:37](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L37)
 
 ___
 
@@ -552,7 +552,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:42](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L42)
+[types/TypedEventEmitter.ts:42](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L42)
 
 ___
 
@@ -572,7 +572,7 @@ ___
 
 #### Defined in
 
-[index.ts:737](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L737)
+[index.ts:737](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L737)
 
 ___
 
@@ -592,7 +592,7 @@ ___
 
 #### Defined in
 
-[index.ts:745](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L745)
+[index.ts:745](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L745)
 
 ___
 
@@ -612,7 +612,7 @@ ___
 
 #### Defined in
 
-[index.ts:715](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L715)
+[index.ts:715](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L715)
 
 ___
 
@@ -633,7 +633,7 @@ ___
 
 #### Defined in
 
-[index.ts:640](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L640)
+[index.ts:640](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L640)
 
 ___
 
@@ -653,7 +653,7 @@ ___
 
 #### Defined in
 
-[index.ts:659](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L659)
+[index.ts:659](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L659)
 
 ___
 
@@ -676,7 +676,7 @@ ___
 
 #### Defined in
 
-[index.ts:616](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L616)
+[index.ts:616](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L616)
 
 ___
 
@@ -694,7 +694,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:47](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L47)
+[types/TypedEventEmitter.ts:47](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L47)
 
 ___
 
@@ -708,7 +708,7 @@ ___
 
 #### Defined in
 
-[index.ts:636](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L636)
+[index.ts:636](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L636)
 
 ___
 
@@ -728,7 +728,7 @@ ___
 
 #### Defined in
 
-[index.ts:704](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L704)
+[index.ts:704](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L704)
 
 ___
 
@@ -758,7 +758,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:45](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L45)
+[types/TypedEventEmitter.ts:45](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L45)
 
 ___
 
@@ -788,7 +788,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:44](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L44)
+[types/TypedEventEmitter.ts:44](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L44)
 
 ___
 
@@ -819,7 +819,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:33](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L33)
+[types/TypedEventEmitter.ts:33](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L33)
 
 ___
 
@@ -850,7 +850,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:25](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L25)
+[types/TypedEventEmitter.ts:25](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L25)
 
 ___
 
@@ -881,7 +881,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:26](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L26)
+[types/TypedEventEmitter.ts:26](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L26)
 
 ___
 
@@ -901,7 +901,7 @@ ___
 
 #### Defined in
 
-[index.ts:727](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L727)
+[index.ts:727](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L727)
 
 ___
 
@@ -932,7 +932,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:27](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L27)
+[types/TypedEventEmitter.ts:27](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L27)
 
 ___
 
@@ -963,7 +963,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:28](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L28)
+[types/TypedEventEmitter.ts:28](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L28)
 
 ___
 
@@ -993,7 +993,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:43](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L43)
+[types/TypedEventEmitter.ts:43](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L43)
 
 ___
 
@@ -1013,7 +1013,7 @@ ___
 
 #### Defined in
 
-[index.ts:167](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L167)
+[index.ts:167](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L167)
 
 ___
 
@@ -1043,7 +1043,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:34](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L34)
+[types/TypedEventEmitter.ts:34](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L34)
 
 ___
 
@@ -1074,7 +1074,7 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:35](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L35)
+[types/TypedEventEmitter.ts:35](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L35)
 
 ___
 
@@ -1096,7 +1096,7 @@ ___
 
 #### Defined in
 
-[index.ts:148](https://github.com/samooth/bsv-p2p/blob/master/src/index.ts#L148)
+[index.ts:148](https://github.com/samooth/bsv-p2p//blob/master/src/index.ts#L148)
 
 ___
 
@@ -1120,4 +1120,4 @@ ___
 
 #### Defined in
 
-[types/TypedEventEmitter.ts:48](https://github.com/samooth/bsv-p2p/blob/master/src/types/TypedEventEmitter.ts#L48)
+[types/TypedEventEmitter.ts:48](https://github.com/samooth/bsv-p2p//blob/master/src/types/TypedEventEmitter.ts#L48)
