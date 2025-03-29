@@ -115,4 +115,4 @@ const USER_AGENTS: { [ticker: string]: string } = {
 
 const MAX_PER_MSG = 50000 as const;
 
-export { MAGIC_NUMS, VERSIONS, USER_AGENTS, SEGWIT, MAX_PER_MSG };
+export { MAGIC_NUMS, VERSIONS, USER_AGENTS, SEGWIT, MAX_PER_MSG, PORTS };
